@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361930257732",
+    "project_id": "coupon-flutter",
+    "storage_bucket": "coupon-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361930257732:android:337c411be1fb46e3a21311",
+        "android_client_info": {
+          "package_name": "com.example.copon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361930257732-3g1e5p24n9t21u5cbamqkqrg18boh1u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.copon_app",
+            "certificate_hash": "fcfb20810ecf5f131b6ed8c8a9a86bb0c7fdcbb3"
+          }
+        },
+        {
+          "client_id": "361930257732-o3mf8pr7j81dic4mfu3mu4lnluk6pnm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxi9dmVKEtVuUSD_LG2lbHy-AzazXMP1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361930257732-o3mf8pr7j81dic4mfu3mu4lnluk6pnm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
